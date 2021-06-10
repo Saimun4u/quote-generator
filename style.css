@@ -17,3 +17,8 @@ body {
   align-items: center;
   justify-items: center;
 }
+
+.quote-container {
+  text-align: center;
+  margin: 0 auto;
+}
